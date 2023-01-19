@@ -21,7 +21,7 @@ VALUES
     "1978-02-19", 43, "alexander123", "visa card", "polo90"),
     
     ("Marie","al9090@hmail.com", "9898989907", "Street 3, twin tower, Jordan", 
-    "2001-10-28", 21, "marie123", "visa card", "al9090"),
+    "2001-10-28", 21, "marie123", "visa card", "al90900"),
     
     ("Jacky","loki0@hmail.com", "9897856489", "Street 2,quad tower, london", 
     "1978-09-23", 44, "jacky123", "visa card", "loki"),

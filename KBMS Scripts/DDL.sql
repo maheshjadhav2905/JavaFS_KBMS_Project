@@ -18,11 +18,11 @@ password varchar(15),
 identity_proof varchar(25),
 preferred_login_id varchar(50),
 
-constraint primary key (customer_id)
+constraint primary key (preferred_login_id)
 );
 drop table customer;
 
-
+desc customer;
 commit;
 select * from Customer;
 SELECT * FROM Customer WHERE preferred_login_id = "loki";
