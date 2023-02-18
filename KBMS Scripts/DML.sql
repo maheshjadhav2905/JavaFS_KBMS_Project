@@ -37,3 +37,7 @@ VALUES
     
 ALTER TABLE Customer
 DROP COLUMN customer_id;
+
+insert into CustomerDetails (preferred_login_id,password,role) values ("bob","bob123","customer");
+
+truncate CustomerDetails;
